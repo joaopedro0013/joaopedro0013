@@ -13,7 +13,7 @@ caminho .<br>
 ---
 
 ## 🚀 Sobre Mim
-- 🎓 **Formação**: Tecnologia em analise e desnvolvimento de sistemas - Newton Paiva.
+- 🎓 **Formação**: Tecnologia em analise e desenvolvimento de sistemas - Newton Paiva.
 - 💻 **Habilidades**: Java, JavaScript, HTML5/CSS3, Photoshop, Desenvolvimento de Jogos (Unity, Godot).<br>
 [![](https://skillicons.dev/icons?i=java,javascript,php)](https://skillicons.dev)
 
