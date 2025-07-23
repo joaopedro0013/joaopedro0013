@@ -24,7 +24,11 @@ caminho .<br>
 
 ## 🛠️ Projetos em Destaque
 - **Batalha Epica**: Um jogo feito com java de estrategia que comecei a fazer.
+<br>
+  Link: https://github.com/joaopedro0013/Jogo-Batalha-EPICA
 - **calculadora**: Uma calculadora feita em java, tentando copiar a calculadora do windows.
+  <br>
+  Link: 
 
 ---
 
