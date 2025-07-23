@@ -31,7 +31,6 @@ caminho .<br>
 ---
 
 ## 🛠️ Projetos em Destaque
-- **[Social Movie Project](https://joaopedropio.github.io)**: Um site para compartilhamento de conteúdo de filmes, com APIs e design responsivo.
 - **Batalha Epica**: Um jogo feito com java de estrategia que comecei a fazer.
 - **calculadora**: Uma calculadora feita em java, tentando copiar a calculadora do windows.
 
