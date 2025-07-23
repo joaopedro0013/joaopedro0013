@@ -34,7 +34,8 @@ caminho .<br>
 
 
 ## 📬 Entre em Contato!
-Gostou do meu trabalho? Me mande uma mensagem no [LinkedIn]([https://www.linkedin.com/in/joao-pedro-pio/](https://www.linkedin.com/in/jo%C3%A3o-pedro-72ba0a18a/)) 🚀
+Gostou do meu trabalho? Me mande uma mensagem no [LinkedIn]([[https://www.linkedin.com/in/joao-pedro-pio/])
+🚀
 
 
 
