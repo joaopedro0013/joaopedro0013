@@ -10,7 +10,7 @@ caminho através de experiências de estágio.<br>
 Gosto muito de descobrir coisas 
 novas como : novas expressões em inglês, novos conhecimentos de 
 linguagem ou aprender a como usar uma nova ferramenta.<br> 
- Meu contato:joaopedro2002trabalho@gmail.com.
+ Meu contato: joaopedro2002trabalho@gmail.com.
 Para ver as teclas de atalho, pressione o ponto de interrogação
 Ver teclas de atalho
 
@@ -24,7 +24,7 @@ caminho .<br>
 
 ## 🚀 Sobre Mim
 - 🎓 **Formação**: Tecnologia em analise e desnvolvimento de sistemas - Newton Paiva.
-- 💻 **Habilidades**: Java, JavaScript, HTML5/CSS3, Photoshop, Desenvolvimento de Jogos (Unity, Godot).
+- 💻 **Habilidades**: Java, JavaScript, HTML5/CSS3, Photoshop, Desenvolvimento de Jogos (Unity, Godot).<br>
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 - 📫 **Contato**: [joao.pedro@email.com](mailto:joaopedro2002trabalho@gmail.com)
