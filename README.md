@@ -25,7 +25,7 @@ caminho .<br>
 ## 🚀 Sobre Mim
 - 🎓 **Formação**: Tecnologia em analise e desnvolvimento de sistemas - Newton Paiva.
 - 💻 **Habilidades**: Java, JavaScript, HTML5/CSS3, Photoshop, Desenvolvimento de Jogos (Unity, Godot).<br>
-[![](https://skillicons.dev/icons?i=java,javascript,PHP,figma&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,javascript,php)](https://skillicons.dev)
 
 - 📫 **Contato**: [joaopedro2002trabalho@gmail.com](mailto:joaopedro2002trabalho@gmail.com)
 
@@ -44,7 +44,7 @@ caminho .<br>
 
 
 ## 📬 Entre em Contato!
-Gostou do meu trabalho? Me mande uma mensagem no [LinkedIn](https://www.linkedin.com/in/joao-pedro-pio/) ou explore meus repositórios abaixo! 🚀
+Gostou do meu trabalho? Me mande uma mensagem no [LinkedIn]([https://www.linkedin.com/in/joao-pedro-pio/](https://www.linkedin.com/in/jo%C3%A3o-pedro-72ba0a18a/)) 🚀
 
 
 
