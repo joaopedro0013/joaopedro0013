@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 # Olá, eu sou João Pedro! 👋
 
 Bem-vindo ao meu perfil! Sou um desenvolvedor de 23 anos formado em tecnologia e analista de 
-desenvolvimento de sistemas, que Trabalha com outras linguagens como: **Java**, **Flutter**, **PHP**,**Java Script**. Atualmente, estou explorando projetos em **web development**. Estou sempre buscando novos desafios para aprender e crescer pois o meu maior desejo é me tornar o melhor 
+desenvolvimento de sistemas, que Trabalha com linguagens como: **Java**, **Flutter**, **PHP**,**Java Script**. Atualmente, estou explorando projetos em **web development**. Estou sempre buscando novos desafios para aprender e crescer pois o meu maior desejo é me tornar o melhor 
 profissional possível.<br>
 ---
 
